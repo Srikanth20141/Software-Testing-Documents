@@ -14,6 +14,6 @@ This repository contains all the project documents that I follow for the manual 
 - Test Scenario
 - Test Cases
 - Bug Report
-- RTM
+- RTM - Requirements Traceability Matrix
 - Test Reports
 - Test Metrics
