@@ -11,6 +11,7 @@ This repository contains all the project documents that I follow for the manual 
 
 ## Templates
 - Test Plan
+- Test Scenario
 - Test Cases
 - Bug Report
 - RTM
