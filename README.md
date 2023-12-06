@@ -24,7 +24,7 @@ This repository contains all the project documents that I follow for the manual 
 **Bug ID**: T65-1402 <br />
 **Bug Title:** <br />
 **Project:** XYZ <br />
-**Status:** To Do <br />
+**Status:** To Do / In progress / Resolve or Done / Closed / Reopen <br />
 **Affected version:** V2.0.0.0 <br />
 **Fix version:**  V2.0.0.0 <br />
 **Components:** Mobile <br />
