@@ -22,6 +22,7 @@ This repository contains all the project documents that I follow for the manual 
 ## Bug Report
 
 | Bug ID: T65-1402 | Bug Title: |
+|||
 Project: XYZ 
 Status: To Do
 Affected version: V2.0.0.0
