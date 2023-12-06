@@ -2,7 +2,7 @@
 
 This repository contains all the project documents that I follow for the manual activity. The projects were completed using a combination of manual testing techniques and test management tools.
 
-## Project List
+## Project
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
