@@ -19,7 +19,7 @@ This repository contains all the project documents that I follow for the manual 
 - Test Metrics
 
 
-### Bug Report
+## Bug Report
 
 Bug ID: T65-1402
 Bug Title: 
